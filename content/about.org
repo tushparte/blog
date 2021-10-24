@@ -1,0 +1,7 @@
+---
+title: "About"
+date: 2021-10-23T21:27:37+05:30
+draft: true
+---
+
+I am Tushar. I am currently a final year student at IIIT Allahabad pursuing a bachelors degree in Information Technology. My core interest lies in backend engineering and large scale distributed systems. I spend a lot of time reading books and watching anime. I enjoy playing video-games as well. The main purpose of this blog is documentation of my learning journey as I progress in the industry as a software engineer.
