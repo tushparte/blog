@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/tushparte/tushparte.github.io
+	branch = main

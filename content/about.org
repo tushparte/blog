@@ -4,4 +4,8 @@ date: 2021-10-23T21:27:37+05:30
 draft: true
 ---
 
-I am Tushar. I am currently a final year student at IIIT Allahabad pursuing a bachelors degree in Information Technology. My core interest lies in backend engineering and large scale distributed systems. I spend a lot of time reading books and watching anime. I enjoy playing video-games as well. The main purpose of this blog is documentation of my learning journey as I progress in the industry as a software engineer.
+Hey, I am Tushar.
+
+I am currently a final year student at IIIT Allahabad pursuing a bachelors degree in Information Technology. I got introduced to programming when I was in High School and ever since developed a interest in it, so naturally I chose to pursue the same in college. My core interest lies in programming, software engineering and large scale systems. Apart from coding and engineering I enjoy reading a good book, watching anime and playing fps games.
+
+The primary purpose of this blog is to document by journey and learning as a new grad software engineer working in the industry, which I can come back to for quick revisions. I also look forward to writing about other things in general that spark my interest. I'd be really glad if these help others as well. I hope to find ways to make these interesting to you too!
