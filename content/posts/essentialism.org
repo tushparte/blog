@@ -1,5 +1,5 @@
 ---
-title: "Essentialism"
+title: "Book Notes: Essentialism"
 date: 2021-12-30T12:28:16+05:30
 draft: true
 ---
